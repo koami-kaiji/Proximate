@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23231" systemVersion="24A335" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="ProfileDatas" representedClassName="ProfileDatas" syncable="YES">
+        <attribute name="aboutMe" optional="YES" attributeType="String"/>
+        <attribute name="birthdate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="bloodType" optional="YES" attributeType="String"/>
+        <attribute name="bucketList" optional="YES" attributeType="String"/>
+        <attribute name="currentChallenge" optional="YES" attributeType="String"/>
+        <attribute name="dislikedFood" optional="YES" attributeType="String"/>
+        <attribute name="facebook" optional="YES" attributeType="String"/>
+        <attribute name="favoriteArtist" optional="YES" attributeType="String"/>
+        <attribute name="favoriteBook" optional="YES" attributeType="String"/>
+        <attribute name="favoriteBrand" optional="YES" attributeType="String"/>
+        <attribute name="favoriteFood" optional="YES" attributeType="String"/>
+        <attribute name="favoriteMovie" optional="YES" attributeType="String"/>
+        <attribute name="favoritePlace" optional="YES" attributeType="String"/>
+        <attribute name="futureGoal" optional="YES" attributeType="String"/>
+        <attribute name="hobby" optional="YES" attributeType="String"/>
+        <attribute name="hometown" optional="YES" attributeType="String"/>
+        <attribute name="instagram" optional="YES" attributeType="String"/>
+        <attribute name="isImagePickerPresented" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="messageToFriend" optional="YES" attributeType="String"/>
+        <attribute name="motto" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="nickname" optional="YES" attributeType="String"/>
+        <attribute name="selectedImage" optional="YES" attributeType="Binary"/>
+        <attribute name="strongPoint" optional="YES" attributeType="String"/>
+        <attribute name="twitter" optional="YES" attributeType="String"/>
+        <attribute name="uid" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="updateDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="weakPoint" optional="YES" attributeType="String"/>
+        <attribute name="zodiacSign" optional="YES" attributeType="String"/>
+    </entity>
+</model>
